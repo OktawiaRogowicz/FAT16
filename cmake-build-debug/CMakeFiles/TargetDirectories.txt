@@ -1,0 +1,3 @@
+C:/Users/Oktawia/CLionProjects/FAT16/cmake-build-debug/CMakeFiles/FAT16.dir
+C:/Users/Oktawia/CLionProjects/FAT16/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Oktawia/CLionProjects/FAT16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
